@@ -719,7 +719,7 @@ main {
 
 .skill-box:hover {
   background: var(--bg-gradient-yellow-1);
-  color: var(--smoky-black);
+  color: var(--bg-gradient-yellow-1);
   font-weight: var(--fw-500);
 }
 
