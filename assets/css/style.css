@@ -714,18 +714,18 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-400);
   box-shadow: var(--shadow-2);
-  transition: background 0.2s ease;
+  transition: background 0.2s ease, color 0.2s ease;
 }
 
 .skill-box:hover {
   background: var(--bg-gradient-yellow-1);
-  color: var(--bg-gradient-yellow-1);
+  color: var(--orange-yellow-crayola); 
   font-weight: var(--fw-500);
 }
 
 
 .timeline-duration-dark {
-  color: #888888; /* medium-dark gray */
+  color: #888888; 
   font-weight: 400;
 }
 
